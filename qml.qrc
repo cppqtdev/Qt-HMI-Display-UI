@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>assets/Dashboard.svg</file>
+        <file>assets/Vector 70.svg</file>
+        <file>assets/Low beam headlights.svg</file>
+        <file>assets/Vector 1.svg</file>
+        <file>assets/Vector 2.svg</file>
+        <file>assets/FirstRightIcon.svg</file>
+        <file>assets/FourthRightIcon.svg</file>
+        <file>assets/Lights.svg</file>
+        <file>assets/Parking lights.svg</file>
+        <file>assets/Rare fog lights.svg</file>
+        <file>assets/SecondRightIcon.svg</file>
+        <file>assets/thirdRightIcon.svg</file>
+        <file>assets/car.png</file>
+        <file>assets/fuel.svg</file>
+        <file>assets/road.svg</file>
+        <file>assets/speedometer.svg</file>
+        <file>Gauge.qml</file>
+        <file>assets/background.png</file>
+        <file>assets/background.svg</file>
+        <file>assets/needle.svg</file>
+        <file>assets/tickmark.svg</file>
+        <file>assets/newcar.svg</file>
+        <file>assets/Car.svg</file>
+        <file>assets/Model 3.svg</file>
+        <file>assets/Model 3.png</file>
+        <file>assets/Light_White.svg</file>
+        <file>assets/Parking_lights_white.svg</file>
+        <file>assets/Low_beam_headlights_white.svg</file>
+        <file>assets/Rare_fog_lights_red.svg</file>
+        <file>assets/FirstRightIcon_grey.svg</file>
+        <file>assets/SecondRightIcon_red.svg</file>
+        <file>assets/thirdRightIcon_red.svg</file>
+        <file>assets/FourthRightIcon_red.svg</file>
+    </qresource>
+</RCC>
