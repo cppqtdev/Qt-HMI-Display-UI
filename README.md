@@ -23,6 +23,7 @@
 
 </p>
 
+![Uploading Car Dashboard.gif…]()
 
 
 # Car Dashboard using Qt QML
