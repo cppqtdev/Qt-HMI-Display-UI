@@ -33,7 +33,7 @@ The Car Dashboard project aims to create a user-friendly dashboard interface for
 
 ## Screenshots
 
-![Car Dashboard Screenshot](screenshots/Screenshot 2023-08-12 141221.png)
+![Car Dashboard Screenshot](https://github.com/cppqtdev/Car-Dashboard-2/blob/main/screenshots/Screenshot%202023-08-12%20141221.png)
 
 ## Video Demo
 
